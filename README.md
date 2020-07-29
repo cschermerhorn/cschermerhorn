@@ -1,6 +1,6 @@
-### Hi, I'm Cameron 👋
-I'm a software engineer that is currently lighting up the power engineering field ⚡. I enjoy working with C/C++, Python🐍, and Fortran for the complicated behind the scenes magic.
+<img align="right" src="https://github.com/cschermerhorn/cschermerhorn/blob/master/cs_floppy.png" alt="Floppy disk with text illustrating Cameron as a software engineer who likes Python, C and C++, and Fortran" width=500px height=523px/>
 
+<br><br>
 
 #### 🚧 I’m currently working on ...
   - Automation and Continuous Integration (CI)
